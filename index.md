@@ -12,12 +12,16 @@ Alasan mengapa lifi bisa sangat capat adalah karena lampu yang di lengkapi denga
 ![CaraKErja](Carakerja.png)
 
 ## Kelebihan Dan Kekurangan LIFI
-Kelebihan
+
+# Kelebihan
+
   - Mudah dalam mengakses internet meski daerah terpencil yang susah di jangkau
   - Efisiensi biaya lebih rendah karena merupakan komponen lebih sedikit dari teknologi sinyal radio
   - keamanan lebih terjaga karena pencarian sinyal susah karena sinyal di batasi dengan daerah khusus seperti ruangan tertutup
   
- Kekurangan 
+  
+# Kekurangan 
+
   - lifi hanya bisa digunakan tanpa adanya sumber cahaya sebagai pengantar sinyal
   - karena menggunakna cahaya tanpak dan cahaya tidak dapat menembus dinding maka dari itu jarak dari lifi tergantung halangan yang ada di depan 
   - lampu harus tetap menyala jikalau ingin menggunakan lifi  meskipun di kondisi siang hari 
