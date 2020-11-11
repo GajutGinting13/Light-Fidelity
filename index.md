@@ -1,4 +1,4 @@
-### Li-Fi (Light Fidelity)
+### Li-Fi
 
 ## Apa itu Lifi?
 
