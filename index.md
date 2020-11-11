@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+### Li-Fi (Light Fidelity)
 
-You can use the [editor on GitHub](https://github.com/GajutGinting13/Light-Fidelity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Apa itu Lifi?
 
-### Markdown
+![Li-Fi](lifi.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Light Fidelity atau yang sering di singkat LiFi merupakan teknologi yang komunikasi nirkabel dua arah. beda dengan teknologi Wi-Fi yang menggunakan sinyal radio untuk berkomunikasi LiFi memanfaatkan cahaya untuk berkomunikasi. kecepatan internet dari lifi bisa mengalahkan wifi dengan 224s lebih besar dari pada wifi. Lifi dibuat menyerupai bola lampu LED yang ada di rumah atau di kantor etsss tetapi Lampu LiFi dilengkapi dengan chip yang memodulasi cahaya untuk pengirim data optik.LIFi pertama kali di temukan oleh Harald Haas di tahun 2011
 
-```markdown
-Syntax highlighted code block
+## Bagaimana Bisa Berkecepatan Tinggi Dan Bagaimana Cara Kerjanya
+Alasan mengapa lifi bisa sangat capat adalah karena lampu yang di lengkapi dengan LIFI mampu berganti menyala atau mati hanya dalam waktu beberapa nanodetik setara dengan 1Gits/s yang artinya lebih cepat 10 kali dari wifi yang hanya bisa mencapai kecepatan 100Mbits/s. Cara kerjanya lifi membutuhkan 2 penghubung Satu yang dari lifi sendiri dan yang satu lagi yang terdapat pada perngkat yang akan menerima pertama lifi akan mendapatkan internet dan mengirim data tersebut melalaui cahaya setelah itu cahaya tersebut di tangkap oleh photo detector yang ada di perangkat setelah itu data di proses 
 
-# Header 1
-## Header 2
-### Header 3
+![CaraKErja](Carakerja.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GajutGinting13/Light-Fidelity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Kelebihan Dan Kekurangan LIFI
+Kelebihan
+  - Mudah dalam mengakses internet meski daerah terpencil yang susah di jangkau
+  - Efisiensi biaya lebih rendah karena merupakan komponen lebih sedikit dari teknologi sinyal radio
+  - keamanan lebih terjaga karena pencarian sinyal susah karena sinyal di batasi dengan daerah khusus     seperti ruangan tertutup
+ Kekurangan 
+  - lifi hanya bisa digunakan tanpa adanya sumber cahaya sebagai pengantar sinyal
+  - karena menggunakna cahaya tanpak dan cahaya tidak dapat menembus dinding maka dari itu jarak dari     lifi tergantung halangan yang ada di depan 
+  - lampu harus tetap menyala jikalau ingin menggunakan lifi  meskipun di kondisi siang hari 
+  
+  
+  
+ ## Sumber
+ 
+  [Wikipedia](https://id.wikipedia.org/wiki/Li-Fi)
+  [Baktikominfo](https://www.baktikominfo.id/id/informasi/pengetahuan/mengenal_li-fi_teknologi_pengganti_wi-fi_di_masa_depan-708)
+  [Uii](https://ee.uii.ac.id/2020/06/01/mengenal-teknologi-li-fi-light-fidelity/)
+  [Bukalapak](https://review.bukalapak.com/techno/mengenal-lifi-jaringan-internet-nirkabel-berbasis-cahaya-51186)
+  [Kompasiana](https://www.kompasiana.com/ahmad62757/5d9e7ceb097f3655ac4da712/teknologi-li-fi-memiliki-kecepatan-internet-lebih-tinggi-dari-wi-fi)
