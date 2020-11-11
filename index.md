@@ -1,6 +1,5 @@
 ### Li-Fi (Light Fidelity)
 
-
 ## Apa itu Lifi?
 
 ![Li-Fi](lifi.jpg)
